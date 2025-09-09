@@ -30,3 +30,6 @@ while (ret == "q")
 }
 ;
 Console.WriteLine("Приложение закрыта");
+
+int i = 2;
+int j = 0;
