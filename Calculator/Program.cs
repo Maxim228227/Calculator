@@ -33,3 +33,4 @@ Console.WriteLine("Приложение закрыта");
 Console.WriteLine();
 
 int Max = 1;
+string qqqq = "a";
