@@ -27,6 +27,7 @@ while (ret == "q")
 
     Console.WriteLine("Нажмите q, если хотите выполнить операцию");
     ret = Convert.ToString(Console.ReadLine());
-}
-;
+};
 Console.WriteLine("Приложение закрыта");
+
+Console.WriteLine();
